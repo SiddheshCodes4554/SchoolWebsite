@@ -1,7 +1,7 @@
 
 # School Website
 
-This is a full stack school website project along with admin panel allowing admin to manage each and every part of website without need to change the code. This ensures great user  experience and easy management for client to manage data for the website.
+This is a full stack school website project along with admin panel allowing admin to manage each and every part of website without need to change the code. This ensures great user experience and easy management for client to manage data for the website.
 
 ## Installation
 
