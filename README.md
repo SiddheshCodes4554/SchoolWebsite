@@ -42,34 +42,34 @@ This is a full stack school website project along with admin panel allowing admi
 
 ## Screenshots
 
-                              Home Page
+                                                            Home Page
 
-![Home Page](https://res-console.cloudinary.com/donzpxmic/thumbnails/v1/image/upload/v1748957035/azNyeTl4MHl2a2xuc2tnanNjZ2E=/drilldown)
+![Home Page](https://i.postimg.cc/sfqRN4Ss/1.png)
 
                               About Page
 
-![About Page](https://res-console.cloudinary.com/donzpxmic/thumbnails/v1/image/upload/v1748957138/b2I5ZXlnZzRscHlrbzh6Z210ZnQ=/drilldown)
+![About Page](https://i.postimg.cc/65MbP9FR/screencapture-localhost-School-aboutus-php-2025-06-03-18-55-25.png)
 
                             Admission Page
 
-![Admission Page](https://res-console.cloudinary.com/donzpxmic/thumbnails/v1/image/upload/v1748957102/d3RieThwcTYxejgxY2V5Zjlib2I=/drilldown)
+![Admission Page](https://i.postimg.cc/JnyRs6JY/2.png)
 
                                 Staff Page
 
-![Staff Page](https://res-console.cloudinary.com/donzpxmic/thumbnails/v1/image/upload/v1748957092/aXplMTZkeHY0a21tMnhheDRmYXo=/drilldown)
+![Staff Page](https://i.postimg.cc/J0VCG1Rt/3.png)
 
                             Gallery Page
 
-![Gallery Page](https://res-console.cloudinary.com/donzpxmic/thumbnails/v1/image/upload/v1748957114/c213enZraWlhanI0eGF5bGtnc3o=/drilldown)
+![Gallery Page](https://i.postimg.cc/Dz896WZ8/4.png)
 
 
                           Admin Dashboard
 
-![Admin Page](https://res-console.cloudinary.com/donzpxmic/thumbnails/v1/image/upload/v1748957751/U2NyZWVuc2hvdF8yMDI1LTA2LTAzXzE5MDUzMl93dWV4Z3M=/drilldown)
+![Admin Page](https://i.postimg.cc/LsKtCw4L/Screenshot-2025-06-03-190532.png)
 
                           Staff manage Page
 
-![About Page](https://res-console.cloudinary.com/donzpxmic/thumbnails/v1/image/upload/v1748957914/ZHNmZGZzX2NlYmZrYw==/drilldown)
+![Staff Manage Page](https://i.postimg.cc/x84HKFFk/dassad.jpg)
 ## Used By
 
 This project was
