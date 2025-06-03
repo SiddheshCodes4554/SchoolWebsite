@@ -72,7 +72,7 @@ This is a full stack school website project along with admin panel allowing admi
 ![Staff Manage Page](https://i.postimg.cc/x84HKFFk/dassad.jpg)
 ## Used By
 
-This project was
+This project was used
 
 - Sindhururg Sainik School Amboli (2022-2025)
 
